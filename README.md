@@ -9,7 +9,7 @@
 
 * [Kaio Souza](https://github.com/unifksouza) - // seu currículo aqui //
 
-* [Vitor Santos] // inserir currículo aqui, junto com o link do github // 
+* [Vitor Santos](https://github.com/vitorssoares7) - // seu currículo aqui  // 
 
 
 
