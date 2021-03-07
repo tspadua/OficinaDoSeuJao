@@ -16,4 +16,4 @@
 
 ## O Projeto
 
-CriaçãO de um sistema de cadastro de clientes da Oficina do Seu Jão™ - será utilizado por pessoas fora da área de desenvolvimento, logo precisa constar com uma interface simples e acessível. 
+Criação de um sistema de cadastro de clientes da Oficina do Seu Jão™ - será utilizado por pessoas fora da área de desenvolvimento, logo precisa constar com uma interface simples e acessível. 
