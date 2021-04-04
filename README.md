@@ -22,4 +22,4 @@ Criação de um sistema de cadastro de clientes da Oficina do Seu Jão™ - ser�
 
 ## Fluxograma
 
-![alt text](https://lh3.googleusercontent.com/3OlO1YSkFrZ4qHk7HLq1X93_nsK1DdGsPT6A1Epy1IVkQaRT_4DT-PuwW2BjffbdAmV-y92DPxpBCLiF5mY=w1920-h939-rw)
+![alt text](../assets/flowchart.png?raw=true)
